@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import React, {useState } from 'react';
 import * as Button from '../Button/style';
 import * as S from './style';
 import * as L from '../ListItems/style';

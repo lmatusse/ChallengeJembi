@@ -13,7 +13,7 @@ max-width:1120px;
 }
 `
 export const ContainerTable=styled.div`
-max-height: 300px;
+max-height: 210px;
     overflow: scroll;
 `
 export const filterContainer=styled.div`
